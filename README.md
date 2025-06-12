@@ -1,0 +1,1 @@
+Python code for the Department of Energy internship. Statistical analysis of weather data at Department of Energy sites, which is compared with the number of incident reports at those sites using severeal correlative tests.
